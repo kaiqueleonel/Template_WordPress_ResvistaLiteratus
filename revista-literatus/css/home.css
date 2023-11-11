@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Inter&family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 16px;
+}
+
+.conteiner-inicial{
+    margin: 8rem 0;
+}
+
+.titulo-principal{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 400;
+    font-size: 10rem;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: black;
+}
+
+.text-principal{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 1rem;
+}
+
+.imagem-principal{
+    margin-left: 8rem;
+}
+
+.conteiner-quem-somos{
+    color: black;
+    width: 60%;
+    margin: 10% 20%;
+    background-color: rgba(255, 255, 255, 0.40);
+    box-shadow: 1px 3px 4px 0px rgba(0, 0, 0, 0.50);
+    padding: 3%;
+    border-radius: 5px;
+}
+
+.conteiner-quem-somos h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2,43rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+.conteiner-quem-somos p{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: justify;
+}

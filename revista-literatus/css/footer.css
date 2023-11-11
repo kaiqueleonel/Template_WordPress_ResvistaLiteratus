@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.container_principal{
+    background-color: #fff;
+}
+
+.container-informacoes{
+    background-color: #181719;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.container-information-part-one{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.titulo-footer{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+
+}
+
+.container-footer{
+    font-family: 'Poppins', sans-serif;
+    margin: 0.2rem 0 0.2rem 0;
+    color: #fff;
+    font-size: 1rem;
+}
